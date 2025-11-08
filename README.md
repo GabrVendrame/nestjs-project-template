@@ -9,7 +9,7 @@ Personal NestJs project starter template.
 ## Project setup
 
 ```bash
-$ npm install && npm prepare
+$ npm install && npm run prepare
 ```
 
 ## Compile and run the project
